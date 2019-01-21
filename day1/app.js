@@ -1,6 +1,4 @@
-/*
- * Aquí podéis hacer los ejercicios y
- * practicar Javascript!
- */
+const name = 'John';
+const admin = name;
 
-console.log("Probando, probando, 1, 2, 3!");
+alert(admin);

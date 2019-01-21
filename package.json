@@ -1,0 +1,24 @@
+{
+  "name": "hackabos-javascript-yisus",
+  "version": "1.0.0",
+  "description": "Módulo de Javascript del Bootcamp de hackabos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisus82/hackabos-javascript-yisus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisus82/hackabos-javascript-yisus/issues"
+  },
+  "homepage": "https://github.com/yisus82/hackabos-javascript-yisus#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
