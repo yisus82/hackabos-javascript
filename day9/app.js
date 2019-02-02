@@ -119,7 +119,7 @@ const isPermutation = A => {
   }
   let numbers = new Set();
   for (let i = 0; i < A.length; i++) {
-    if (A[i] > A.length || numbers.size() == numbers.add(A[i]).size()) {
+    if (A[i] > A.length || numbers.size == numbers.add(A[i]).size) {
       return 0;
     }
   }
