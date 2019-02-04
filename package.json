@@ -10,15 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/yisus82/hackabos-javascript-yisus.git"
   },
-  "author": "",
+  "author": "Jesús Ángel Pérez-Roca Fernández",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yisus82/hackabos-javascript-yisus/issues"
   },
   "homepage": "https://github.com/yisus82/hackabos-javascript-yisus#readme",
   "devDependencies": {
-    "eslint": "^5.12.1",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
