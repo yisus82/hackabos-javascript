@@ -1,3 +1,2 @@
 # modulo2-javascript
-
-Módulo de Javascript del Bootcamp de hackabos
+Hack-a-BOS Bootcamp Javascript module
